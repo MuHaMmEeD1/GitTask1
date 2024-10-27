@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AzComp\\source\\repos\\GitTask\\GitTask\\GitTask.csproj",
+      "projectUniqueName": "C:\\Users\\AzComp\\Desktop\\GitTask\\GitTask\\GitTask.csproj",
       "projectName": "GitTask",
-      "projectPath": "C:\\Users\\AzComp\\source\\repos\\GitTask\\GitTask\\GitTask.csproj",
+      "projectPath": "C:\\Users\\AzComp\\Desktop\\GitTask\\GitTask\\GitTask.csproj",
       "packagesPath": "C:\\Users\\AzComp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AzComp\\source\\repos\\GitTask\\GitTask\\obj\\",
+      "outputPath": "C:\\Users\\AzComp\\Desktop\\GitTask\\GitTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
